@@ -4,7 +4,7 @@
 <hr>
 
 * pip install
- * selenium
- * beautifulsoup4
- * lxml
+  * selenium
+  * beautifulsoup4
+  * lxml
 * chromedriver download
