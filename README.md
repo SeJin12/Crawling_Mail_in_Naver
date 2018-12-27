@@ -3,15 +3,8 @@
 [유튜브](https://www.youtube.com/watch?v=UenvOvag0B4) 참조
 <hr>
 
-* 사전 준비
- * pip install
-  * selenium
-  * beautifulsoup4
-  * lxml
- * chromedriver download
-  
-   
-  
-  
- 
-
+*pip install
+ *selenium
+ *beautifulsoup4
+ *lxml
+*chromedriver download
